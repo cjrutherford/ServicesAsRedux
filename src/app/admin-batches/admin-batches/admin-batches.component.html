@@ -1,0 +1,6 @@
+<div class="table">
+        <app-sortable-headers [keys]="keys" (sortChange)="changeSort($event)"></app-sortable-headers>
+        <div class="table-body">
+            <app-batch *ngFor='let batch of batches' [batch]='batch'></app-batch>
+        </div>
+</div>

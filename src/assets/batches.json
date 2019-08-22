@@ -1,0 +1,660 @@
+[
+  {
+    "batchId": "5d5afc970d575ae493537a31",
+    "description": "Duis minim pariatur culpa nostrud. Anim voluptate anim pariatur ut tempor Lorem. Laborum irure ea mollit nisi mollit elit ipsum duis aute ad ex mollit in consequat. Consequat exercitation exercitation ea labore proident cupidatat ex esse eu voluptate cillum dolore minim minim. Lorem tempor laboris ipsum nulla eu velit nisi et aute et et Lorem minim. Fugiat voluptate reprehenderit eiusmod nulla cupidatat irure incididunt dolore magna ex quis incididunt. Irure magna ut quis voluptate in voluptate ea. Nulla ea quis magna veniam laborum. Ex proident mollit commodo velit id magna eu id ad consectetur magna. Ad sit eu voluptate nisi.",
+    "startDate": "Thu Feb 09 1989 05:57:20 GMT+0000 (UTC)",
+    "endDate": "Wed Feb 27 1980 08:03:49 GMT+0000 (UTC)",
+    "createdDate": "Wed Sep 03 1975 20:53:54 GMT+0000 (UTC)",
+    "invoices": [
+      {
+        "vendor": "Isotronic",
+        "facility": "Mcgowan",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Wed Aug 27 1997 23:49:22 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Gadtron",
+        "facility": "Barton",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon Jan 22 1990 10:57:04 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Acium",
+        "facility": "Walter",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sat Jan 26 2002 07:04:51 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Sequitur",
+        "facility": "Goodman",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Wed Jan 06 2016 07:35:58 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Earthmark",
+        "facility": "Walls",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sat Aug 17 1985 19:52:04 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Plexia",
+        "facility": "Cote",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Wed May 30 1973 08:16:26 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Uniworld",
+        "facility": "Glass",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon Jan 03 1977 19:28:07 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Keeg",
+        "facility": "Summers",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Fri Jun 30 1989 13:58:19 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Zilphur",
+        "facility": "Moreno",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Tue Dec 19 1989 03:19:49 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      }
+    ]
+  },
+  {
+    "batchId": "5d5afc9700af79b77ddff9a0",
+    "description": "Excepteur excepteur ipsum fugiat ex sunt. Id velit Lorem qui reprehenderit tempor est duis labore aliqua sit. Tempor amet et anim in officia Lorem dolore in ut magna et in. Magna veniam amet cupidatat dolor ipsum ipsum nostrud. Laboris id esse consectetur consequat aute exercitation aliqua ex ullamco quis ex do. Veniam occaecat magna dolore reprehenderit. Tempor consectetur eiusmod deserunt nisi. Esse qui aliqua aliqua anim enim aliqua sint. Ea aliquip reprehenderit exercitation consequat nisi consectetur proident aliqua officia deserunt ea. Sit est culpa aliqua aliquip dolore magna aute qui in ea culpa veniam velit quis.",
+    "startDate": "Wed Apr 02 1986 18:09:29 GMT+0000 (UTC)",
+    "endDate": "Sun Jun 02 1996 06:58:29 GMT+0000 (UTC)",
+    "createdDate": "Fri Dec 01 1972 10:36:42 GMT+0000 (UTC)",
+    "invoices": [
+      {
+        "vendor": "Zuvy",
+        "facility": "Kane",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Tue May 12 1998 05:56:22 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Arctiq",
+        "facility": "Moody",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon Nov 13 1989 04:05:09 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Tourmania",
+        "facility": "Roman",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sun Aug 24 2003 05:00:51 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Bulljuice",
+        "facility": "Turner",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon May 26 1997 06:22:59 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Elentrix",
+        "facility": "Reed",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sat Aug 09 1975 07:53:11 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Collaire",
+        "facility": "Dillard",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon Jan 30 1978 22:02:51 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Harmoney",
+        "facility": "Huffman",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Thu Aug 16 2018 09:14:08 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      }
+    ]
+  },
+  {
+    "batchId": "5d5afc977bf7b570b0e84de9",
+    "description": "Qui non aliqua eu ea aliqua Lorem cillum est amet commodo sit amet nisi. Consectetur sunt laboris sit ullamco voluptate et exercitation ut do culpa deserunt. Dolor ullamco excepteur in cupidatat cillum exercitation velit non esse exercitation id reprehenderit. Eiusmod qui sit elit consequat nisi quis ex ex ex incididunt tempor nulla. Officia amet labore dolore minim anim esse incididunt occaecat ea consectetur minim incididunt. Irure non irure excepteur aliqua eiusmod consectetur duis reprehenderit id culpa qui non in. Ut pariatur deserunt ipsum laboris nulla irure non nulla laboris. Lorem magna ut reprehenderit est sint non eu sit id officia cillum dolore consequat. Amet ut pariatur tempor ullamco voluptate nisi exercitation consectetur dolore exercitation. Est in tempor sunt labore nostrud esse duis elit mollit.",
+    "startDate": "Fri Dec 11 1970 22:27:18 GMT+0000 (UTC)",
+    "endDate": "Fri Apr 23 1971 16:03:48 GMT+0000 (UTC)",
+    "createdDate": "Wed Jan 17 1996 14:24:31 GMT+0000 (UTC)",
+    "invoices": [
+      {
+        "vendor": "Norsul",
+        "facility": "Cobb",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Fri Sep 18 1981 08:34:44 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Talkola",
+        "facility": "Montgomery",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon Jan 06 1992 16:28:51 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Uneeq",
+        "facility": "Shaw",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sun Apr 12 2015 10:10:46 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Baluba",
+        "facility": "Whitehead",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon Sep 11 1989 22:36:59 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Parcoe",
+        "facility": "Bates",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sat Aug 30 1997 05:33:55 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Kiosk",
+        "facility": "Hoffman",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Fri May 18 1979 18:18:53 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Strezzo",
+        "facility": "Kinney",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Wed Sep 24 2008 08:05:12 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      }
+    ]
+  },
+  {
+    "batchId": "5d5afc975db9820a25b7c2b6",
+    "description": "Est eu labore sint proident magna dolore anim reprehenderit velit. Cupidatat tempor ex tempor ad dolore ex nisi. Non ea veniam dolor mollit ad amet. Cupidatat ipsum adipisicing dolore est culpa dolor commodo irure. Do anim tempor labore enim duis laborum ex eiusmod minim ea. Cupidatat consequat laboris ea magna. Culpa elit dolor dolore et dolor aliqua aliqua. Deserunt minim quis voluptate pariatur consequat incididunt reprehenderit cupidatat commodo ea pariatur. Ex fugiat ut veniam consectetur consequat est. Et pariatur reprehenderit enim eu amet non fugiat nisi.",
+    "startDate": "Wed Sep 18 2013 03:14:43 GMT+0000 (UTC)",
+    "endDate": "Sat Oct 07 1989 03:37:00 GMT+0000 (UTC)",
+    "createdDate": "Wed Jul 14 1993 23:16:57 GMT+0000 (UTC)",
+    "invoices": [
+      {
+        "vendor": "Kenegy",
+        "facility": "Guy",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sun Jun 15 2003 15:42:03 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Bitrex",
+        "facility": "Oconnor",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon Feb 17 1992 22:53:47 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Retrack",
+        "facility": "Lynn",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Tue Apr 18 1972 20:34:47 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Rockabye",
+        "facility": "Christian",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sat May 01 1999 19:36:50 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Tubesys",
+        "facility": "Grimes",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon Aug 14 2017 19:49:27 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Paprikut",
+        "facility": "Park",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Tue Jan 07 1975 01:35:02 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      }
+    ]
+  },
+  {
+    "batchId": "5d5afc972a275da4fb851238",
+    "description": "Laboris nostrud dolor commodo amet sint id dolor. Eiusmod anim irure cupidatat cupidatat. Sint ipsum est proident quis aliqua ad do deserunt et dolore amet. Qui voluptate enim nisi excepteur non ipsum consectetur irure sint mollit laborum. Do eu est velit incididunt id. Do enim adipisicing ex cillum id qui labore reprehenderit ex cillum enim cillum exercitation. Veniam laboris officia labore aliqua sunt ex tempor non laboris nostrud cupidatat duis nisi. Aliqua occaecat ipsum sint enim sunt incididunt et eu anim reprehenderit do. In laborum aliquip culpa incididunt. Lorem tempor cupidatat eiusmod nulla irure ea aliqua qui magna id.",
+    "startDate": "Sun Apr 27 1986 05:06:34 GMT+0000 (UTC)",
+    "endDate": "Sun Oct 16 1983 08:49:51 GMT+0000 (UTC)",
+    "createdDate": "Thu Apr 11 1974 14:08:53 GMT+0000 (UTC)",
+    "invoices": [
+      {
+        "vendor": "Duflex",
+        "facility": "Kidd",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon May 10 1971 17:11:27 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Anocha",
+        "facility": "Koch",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Wed Jun 11 2014 23:23:24 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Plasmos",
+        "facility": "Obrien",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Tue Sep 29 1987 06:52:52 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Temorak",
+        "facility": "Dotson",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon Aug 07 1972 07:00:21 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Bovis",
+        "facility": "Bernard",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sat Jan 26 2002 17:44:49 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Sloganaut",
+        "facility": "Collier",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Tue Apr 03 1973 03:51:18 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      }
+    ]
+  },
+  {
+    "batchId": "5d5afc97ff823c97d586d5ac",
+    "description": "Nulla minim dolor cillum ea irure cupidatat minim ex esse nostrud. Quis eu incididunt do mollit laborum tempor exercitation sint ea do dolore est esse eu. Velit laboris sint adipisicing laborum in laborum magna excepteur ipsum et ex. Duis aute amet nostrud ullamco non cupidatat cillum reprehenderit amet culpa. Et id excepteur exercitation nostrud. Eu amet mollit est sint dolor laboris nisi proident proident enim nulla exercitation incididunt. Ipsum proident qui reprehenderit nulla ex voluptate quis sunt exercitation nisi. Consectetur amet aute do aliquip occaecat. Non eu consectetur pariatur laborum labore quis ullamco fugiat duis labore pariatur deserunt. Qui aliquip fugiat cupidatat consectetur occaecat minim aliqua laborum velit minim aute.",
+    "startDate": "Sun Mar 14 1976 14:17:42 GMT+0000 (UTC)",
+    "endDate": "Mon Jan 26 1970 10:14:05 GMT+0000 (UTC)",
+    "createdDate": "Mon Mar 19 1984 23:56:12 GMT+0000 (UTC)",
+    "invoices": [
+      {
+        "vendor": "Hairport",
+        "facility": "Clayton",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Fri Nov 30 2007 10:11:04 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Yurture",
+        "facility": "Hoover",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sat Jun 18 1988 19:49:45 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Jamnation",
+        "facility": "Harmon",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Fri Jan 23 1970 20:00:54 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Imageflow",
+        "facility": "Edwards",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Thu Feb 17 1972 13:15:37 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Xymonk",
+        "facility": "Dorsey",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Thu Aug 12 1971 01:25:14 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      }
+    ]
+  },
+  {
+    "batchId": "5d5afc970a93d44a93e9bf44",
+    "description": "Incididunt aute esse laborum dolore mollit quis voluptate. Elit est quis fugiat enim labore officia. In dolor adipisicing et incididunt esse. Enim in consequat quis eu sunt nostrud aliqua. Non dolor quis aliquip voluptate duis quis mollit tempor fugiat laborum elit Lorem do ea. Officia veniam officia nostrud ex dolor elit quis proident eiusmod magna sunt laboris ullamco culpa. Voluptate laboris pariatur aliquip eu ullamco eiusmod Lorem dolor esse nostrud pariatur pariatur. Fugiat adipisicing veniam deserunt eu est ipsum commodo cillum. Amet eiusmod cupidatat dolore sit in voluptate cupidatat non laborum sunt exercitation Lorem consectetur nostrud. Duis est sunt anim commodo fugiat sit do quis sint reprehenderit anim duis in.",
+    "startDate": "Mon Dec 31 2007 23:56:11 GMT+0000 (UTC)",
+    "endDate": "Wed Mar 18 1998 00:40:52 GMT+0000 (UTC)",
+    "createdDate": "Wed Mar 05 2008 14:01:32 GMT+0000 (UTC)",
+    "invoices": [
+      {
+        "vendor": "Polaria",
+        "facility": "Donovan",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Wed May 05 1999 17:30:11 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Schoolio",
+        "facility": "Wells",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Fri Aug 12 1988 12:02:27 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Viocular",
+        "facility": "Gaines",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Tue May 03 2005 22:13:46 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Ovolo",
+        "facility": "Keith",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Tue Sep 29 2009 13:16:58 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Equitax",
+        "facility": "Le",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Tue Jul 23 2002 15:36:39 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Daycore",
+        "facility": "Wagner",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sun Jan 26 1975 06:16:05 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Zillacon",
+        "facility": "Shannon",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sun Mar 25 1973 04:22:00 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      }
+    ]
+  },
+  {
+    "batchId": "5d5afc97da7fc2710fc8c8eb",
+    "description": "Exercitation incididunt cupidatat duis est sunt dolore dolor deserunt deserunt. Duis consequat non velit dolore. In excepteur minim est non deserunt nisi commodo et elit mollit. Dolor proident cupidatat ut non non. Sit dolore deserunt esse eu anim. Proident fugiat aliquip cupidatat magna eiusmod nisi. Est esse consectetur magna mollit laborum reprehenderit deserunt et aliqua dolore cupidatat ullamco. Consectetur officia occaecat dolor laboris duis eiusmod magna ut aliquip elit quis irure culpa. Dolor aliqua ea dolor enim ipsum laborum irure excepteur magna occaecat. Aliqua ex est incididunt ipsum labore proident enim in id sit culpa magna occaecat.",
+    "startDate": "Mon Jun 18 1990 10:41:04 GMT+0000 (UTC)",
+    "endDate": "Sat Feb 21 2009 11:42:16 GMT+0000 (UTC)",
+    "createdDate": "Mon Mar 25 1996 15:17:37 GMT+0000 (UTC)",
+    "invoices": [
+      {
+        "vendor": "Isologix",
+        "facility": "Rollins",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon Mar 22 1999 04:31:27 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Zolarex",
+        "facility": "Chaney",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Thu Jun 08 1995 00:00:47 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Lexicondo",
+        "facility": "Knight",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sun Sep 30 1979 20:44:07 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Genekom",
+        "facility": "Wade",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon Jun 09 2014 19:18:45 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Zappix",
+        "facility": "West",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sun Aug 23 2009 07:02:37 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Electonic",
+        "facility": "Terrell",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Fri Dec 25 2009 23:41:13 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Crustatia",
+        "facility": "Kennedy",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Thu Nov 01 1984 07:17:17 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      }
+    ]
+  },
+  {
+    "batchId": "5d5afc973874527119263688",
+    "description": "Amet officia duis esse ea ea deserunt in magna excepteur. Laboris id quis fugiat amet qui adipisicing occaecat ad culpa nulla quis duis quis eiusmod. Est sint officia in voluptate duis enim. Excepteur labore irure labore magna ad esse esse occaecat. Sunt aliquip deserunt veniam Lorem mollit occaecat aute et ea fugiat in aute. Commodo amet irure veniam consectetur consequat esse proident incididunt fugiat ex sunt mollit adipisicing. Ipsum adipisicing esse fugiat incididunt incididunt ullamco eiusmod. Consequat qui dolore tempor incididunt nulla. Consequat occaecat exercitation et enim commodo reprehenderit et dolor eu eiusmod. Elit ex irure nostrud sit.",
+    "startDate": "Wed Dec 14 2016 09:45:55 GMT+0000 (UTC)",
+    "endDate": "Tue Aug 28 2012 17:54:51 GMT+0000 (UTC)",
+    "createdDate": "Sat Apr 30 2005 01:48:10 GMT+0000 (UTC)",
+    "invoices": [
+      {
+        "vendor": "Geekosis",
+        "facility": "Francis",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Fri Jul 20 1979 21:55:12 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Organica",
+        "facility": "Little",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sun Feb 25 1973 08:29:19 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Turnabout",
+        "facility": "Kim",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sun Apr 27 1997 23:05:01 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Enerforce",
+        "facility": "Houston",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Wed May 12 1976 09:38:20 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Enervate",
+        "facility": "Espinoza",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Fri Apr 23 2004 17:17:16 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Proxsoft",
+        "facility": "Gill",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Thu Jun 30 2011 10:07:22 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Vitricomp",
+        "facility": "Fox",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Thu Dec 03 1987 11:57:55 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      }
+    ]
+  },
+  {
+    "batchId": "5d5afc972f5b8216dda2d904",
+    "description": "Enim velit magna eiusmod aliquip magna veniam eu ipsum veniam veniam. Commodo anim sunt laboris officia sit voluptate anim. Sit incididunt incididunt labore culpa aliqua excepteur culpa anim nulla occaecat ea. Anim ea officia id nulla duis esse aute nostrud. Dolor sit ut adipisicing commodo. Nulla Lorem incididunt deserunt aliquip cillum id irure ea. Consectetur laboris do ut consequat est pariatur. Lorem dolor ut id nulla adipisicing excepteur. Officia nostrud labore exercitation duis incididunt aute magna non. Duis nisi fugiat veniam laborum excepteur cillum.",
+    "startDate": "Mon Jun 01 1992 09:23:49 GMT+0000 (UTC)",
+    "endDate": "Sun Oct 11 1981 00:37:57 GMT+0000 (UTC)",
+    "createdDate": "Sun Dec 14 2008 23:11:27 GMT+0000 (UTC)",
+    "invoices": [
+      {
+        "vendor": "Globoil",
+        "facility": "Mullins",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Fri Jan 08 1988 07:49:12 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Tsunamia",
+        "facility": "Hyde",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Tue Jan 02 2007 07:39:42 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Toyletry",
+        "facility": "Harris",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Tue Aug 27 1996 19:49:30 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Ecratic",
+        "facility": "Beach",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sun Oct 26 1980 01:35:31 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Sealoud",
+        "facility": "Rivera",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon Jul 09 1990 12:59:43 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Pheast",
+        "facility": "Rosa",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Thu Jul 02 1970 12:04:39 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Bleeko",
+        "facility": "Butler",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sat Oct 10 1987 21:53:54 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Genmy",
+        "facility": "Hobbs",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon Sep 23 1985 23:32:14 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Uplinx",
+        "facility": "Buckner",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Sat Jul 09 2005 11:26:02 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      },
+      {
+        "vendor": "Fibrodyne",
+        "facility": "Henry",
+        "PONumber": "<TypeError: this.float is not a function>",
+        "Invoice": "<TypeError: this.float is not a function>",
+        "InvoiceDate": "Mon Nov 26 2018 00:16:23 GMT+0000 (UTC)",
+        "InvoiceAmount": "<TypeError: this.float is not a function>"
+      }
+    ]
+  }
+]

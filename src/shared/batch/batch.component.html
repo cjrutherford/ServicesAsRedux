@@ -1,0 +1,9 @@
+<div class="item">
+    <div class="fields" *ngFor='let field of fields'>
+        <div class="column">{{isArray(batch[field]) ? batch[field].length : batch[field]}}</div>        
+    </div>
+    <div class="column"><button (click)="toggleInvoices()">ShowInvoice</button></div>
+    <div class="invoice" *ngIf='showInvoices'>
+        <app-invoice *ngFor='let inv of invoices' [invoice]='inv'></app-invoice>
+    </div>
+</div>
