@@ -1,8 +1,23 @@
 import { BatchService } from "src/batch.service";
 import { InjectionToken } from '@angular/core';
+import { nearer } from 'q';
 
-export function batchServiceProvider(source: string): BatchService{
+export function batchServiceProvider(source: string): IBatchService{
+    switch(source)
+    {
+        case ADMIN_STRING:
+            // admin batch api service
+            break;
+        case CUSTOMER_STRING:
+            // customer batch api service
+
+    }
+
     return new BatchService(source);
+}
+
+export interface IBatchService {
+    
 }
 
 export const ADMIN_BATCH_SERVICE_PROVIDER = new InjectionToken<BatchService>('ADMIN_BATCH_SERVICE');

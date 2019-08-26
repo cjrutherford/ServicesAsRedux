@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import {BatchesModule} from './batches/batches.module';
+import {CustomerBatchesModule} from './batches/batches.module';
 import {AdminBatchesModule} from './admin-batches/admin-batches.module';
 import { BatchesComponent } from './batches/batches/batches.component';
 import { AdminBatchesComponent } from './admin-batches/admin-batches/admin-batches.component';
@@ -13,7 +13,7 @@ const routes: Routes = [
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes), AdminBatchesModule, BatchesModule],
+  imports: [RouterModule.forRoot(routes), AdminBatchesModule, CustomerBatchesModule],
   exports: [RouterModule]
 })
 export class AppRoutingModule { }

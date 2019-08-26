@@ -14,4 +14,4 @@ import {batchServiceProvider, CUSTOMER_BATCH_SERVICE_PROVIDER, CUSTOMER_BATCH, C
     {provide: CUSTOMER_BATCH_SERVICE_PROVIDER, useFactory: batchServiceProvider, deps: [CUSTOMER_BATCH]},
   ]
 })
-export class BatchesModule { }
+export class CustomerBatchesModule { }

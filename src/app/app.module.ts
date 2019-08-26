@@ -4,7 +4,7 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { AdminBatchesModule } from './admin-batches/admin-batches.module';
-import { BatchesModule } from './batches/batches.module';
+import { CustomerBatchesModule } from './batches/batches.module';
 import { NavComponent } from './nav/nav.component';
 
 
@@ -16,7 +16,7 @@ import { NavComponent } from './nav/nav.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    BatchesModule,
+    CustomerBatchesModule,
     AdminBatchesModule
   ],
   providers: [],

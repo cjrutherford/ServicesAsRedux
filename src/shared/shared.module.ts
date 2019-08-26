@@ -7,7 +7,10 @@ import { SortableHeadersComponent } from './sortable-headers/sortable-headers.co
 
 
 @NgModule({
-  declarations: [BatchComponent, InvoiceComponent, SortableHeadersComponent],
+  declarations: [
+    BatchComponent, 
+    InvoiceComponent, 
+    SortableHeadersComponent],
   imports: [
     CommonModule
   ],

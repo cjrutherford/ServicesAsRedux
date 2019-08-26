@@ -2,9 +2,10 @@ import { Injectable } from '@angular/core';
 
 import MakeFake from './utils/makeFake';
 import { BehaviorSubject } from 'rxjs';
+import { IBatchService } from './app/providers/batchProvider';
 
 @Injectable()
-export class BatchService {
+export class BatchService implements IBatchService {
   private readonly _batches: BehaviorSubject<any[]> = new BehaviorSubject<any[]>([]);
   readonly batches$ = this._batches.asObservable();
 
